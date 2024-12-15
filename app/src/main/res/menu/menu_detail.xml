@@ -10,4 +10,10 @@
       android:visible="false"
       android:title="@string/show_qr"
       app:showAsAction="ifRoom"/>
+  <item
+      android:id="@+id/action_share"
+      android:icon="@drawable/share"
+      android:onClick="startShareActivity"
+      android:title="@string/share"
+      app:showAsAction="ifRoom"/>
 </menu>

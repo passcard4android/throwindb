@@ -29,4 +29,5 @@
   <string name="show_qr">Show QR</string>
   <string name="search">Search</string>
   <string name="search_hint">Type search string</string>
+  <string name="share">Share</string>
 </resources>
