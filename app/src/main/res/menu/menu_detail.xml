@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="me.hda.throwindb.QRCodeDetailActivity">
+  <item
+      android:id="@+id/show_qr"
+      android:icon="@drawable/qr_code"
+      android:orderInCategory="100"
+      android:onClick="showQR"
+      android:visible="false"
+      android:title="@string/show_qr"
+      app:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ThrowInDB</string>
+    <string name="scan">Сканировать QR</string>
+    <string name="title_add">"QR "</string>
+    <string name="new_qrcode_error">Ошибка создания QR, повторите снова</string>
+    <string name="new_qrcode_error_preview">Ошибка создания превью QR</string>
+    <string name="qrcode_data_title">QR Данные</string>
+    <string name="qrcode_image_description">QR Картинка</string>
+    <string name="fab_content_description">Новое хранение</string>
+    <string name="empty_arr">Нажмите + чтобы создать новое хранение</string>
+    <string name="title_activity_new_storage">Новое хранение</string>
+    <string name="new_storage_desc">Описание хранения: перечислите вещи\nНе усложняйте\nИспользуйте фото и видео для длинных описаний</string>
+    <string name="new_qrcode_btn">Сохранить</string>
+    <string name="new_qrcode_image_desc">QR Превью</string>
+    <string name="short_text">Добавить короткое описание</string>
+    <string name="title_activity_qrcode_detail">QR Информация</string>
+    <string name="qrcode_detail_fab">Удалить QR</string>
+    <string name="take_photo">Сделать Фото</string>
+    <string name="start_capture">Начать видео</string>
+    <string name="stop_capture">Остановить видео</string>
+    <string name="show_video">Показать видео</string>
+    <string name="remove_storage">Удалить хранение</string>
+    <string name="show_qr">Показать QR</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint">Текст для поиска</string>
+</resources>
